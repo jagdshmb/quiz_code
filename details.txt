@@ -1,0 +1,7 @@
+Name                      email                                   password                 college                     recovery keys
+
+j                         j                                       j                        j
+r                         r                                       r                        r
+a                         a                                       a                        a
+d                         d                                       d                        d
+ramesh                    ramesh@gmail                            ramesh                   sjce                          123
